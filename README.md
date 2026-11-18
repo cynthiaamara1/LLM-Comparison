@@ -1,12 +1,12 @@
-#Comparative Evaluation of Large Language Models
+# Comparative Evaluation of Large Language Models
 
-###Project Overview
+### Project Overview
 
 This project investigates and compares the performance of five Large Language Models (LLMs) across five natural language processing tasks using the OpenRouter API.
 
 The aim is to examine how different models perform across various tasks and identify their strengths and limitations.
 
-###Models Evaluated
+### Models Evaluated
 
 Qwen3 32B – Alibaba
 
@@ -18,7 +18,7 @@ Gemma 3 27B – Google
 
 Ministral 3B – Mistral AI
 
-###Evaluation Tasks
+### Evaluation Tasks
 
 The models are tested on five tasks:
 
@@ -32,7 +32,7 @@ Synthetic Data Generation
 
 Code Generation
 
-###Evaluation Methodology
+### Evaluation Methodology
 
 All five models receive the same prompts for each task to ensure a consistent comparison.
 
@@ -48,7 +48,7 @@ Completion token usage
 
 Total token usage
 
-###Tools and Technologies
+### Tools and Technologies
 
 Python
 
